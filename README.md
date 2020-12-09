@@ -1,2 +1,2 @@
-# Udacity_Deep_Learning
-Deep Learning Nanodegree from Udacity
+# Udacity_Deep_Learning_Bike_Sharing
+Deep Learning Project 1 from Udacity
